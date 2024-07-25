@@ -1,4 +1,4 @@
-package com.example.nemo
+package es.nertus.mantenimiento
 
 import io.flutter.embedding.android.FlutterActivity
 
